@@ -1,0 +1,8 @@
+[package_detail]
+name = "flashprog"
+description = "Utility for detecting, reading, writing, verifying and erasing flash chips including BIOS/EFI/coreboot/firmware images"
+version = "1.4"
+source_url = "https://github.com/SourceArcade/flashprog"
+license = "GPL-2.0"
+install_script = "setup.sh"
+install_script_type = "shell"
